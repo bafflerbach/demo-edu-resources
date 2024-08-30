@@ -1,7 +1,7 @@
 ---
 title: "Test Resource - Ben Intro ML Course"
-teaching: 10
-exercises: 2
+teaching-rename put estimated length of content: 10
+change to number of exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -9,6 +9,13 @@ exercises: 2
 - How do you write a lesson using Markdown and `{sandpaper}`?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::: test new section? 
+
+- here's a new section and putting some text inside it
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ::::::::::::::::::::::::::::::::::::: objectives
 

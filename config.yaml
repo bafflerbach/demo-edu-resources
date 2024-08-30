@@ -12,35 +12,35 @@
 # This option supports custom types so lessons can be branded
 # and themed with your own logo and alt-text (see `carpentry_description`)
 # See https://carpentries.github.io/sandpaper-docs/editing.html#adding-a-custom-logo
-carpentry: 'Edu Materials Reporsitory'
+carpentry: 'ERDiM'
 
 # Alt-text description of the lesson.
-carpentry_description: 'Sharing educational resources'
+carpentry_description: 'Links to education resources'
 
 # Overall title for pages.
-title: 'Lesson Title' # FIXME
+title: 'Educational Resources for Data Science in Materials'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME
+created: 2024-08-30
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries' # FIXME
+keywords: 'data science, machine learning, educational resources, software, data, lesson, The Carpentries' # FIXME
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'pre-alpha' # FIXME
+life_cycle: 'pre-alpha'
 
 # License of the lesson
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries/workbench-template-md' # FIXME
+source: 'https://github.com/bafflerbach/demo-edu-resources' # FIXME
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org' # FIXME
+contact: 'bafflerbach@wisc.edu'
 
 # Navigation ------------------------------------------------
 #

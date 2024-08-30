@@ -1,3 +1,15 @@
+# Instructions
+
+## Add your materials
+1. Navigate to the episodes folder
+2. copy the raw text from the template.md file
+3. create a new file in the episode folder and copy in the raw template text
+4. edit to your liking
+
+
+# Previous Instructions from software carpentry below here
+
+
 # The Carpentries Workbench Template Markdown Lesson
 
 This lesson is a template lesson that uses [The Carpentries Workbench][workbench]. 

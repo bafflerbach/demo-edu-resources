@@ -1,5 +1,5 @@
 ---
-title: "Using Markdown"
+title: "Test Resource - Ben Intro ML Course"
 teaching: 10
 exercises: 2
 ---

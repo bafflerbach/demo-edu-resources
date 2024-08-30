@@ -64,9 +64,8 @@ contact: 'bafflerbach@wisc.edu'
 # - one-learner.md
 # - another-learner.md
 
-# Order of episodes in your lesson
+# Order of episodes in your lesson. leave blank to sort alphabetically
 episodes: 
-- introduction.md
 
 # Information for Learners
 learners: 
